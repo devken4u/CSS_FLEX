@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.flex-child {
+  border: 2px solid black;
+}
+
+.profile {
+  width: 250px;
+}
+
+.profile img {
+  width: 100%;
+}
